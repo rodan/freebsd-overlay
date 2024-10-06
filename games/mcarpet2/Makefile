@@ -19,8 +19,7 @@ RUN_DEPENDS= 7zz:archivers/7-zip \
 	bchunk:sysutils/bchunk \
 	wget:ftp/wget
 
-USES=		cmake:noninja compiler:c++11-lang pkgconfig sdl openal shebangfix
-SHEBANG_FILES=	assets/scripts/mcarpet2 assets/scripts/mcarpet2_install.sh
+USES=		cmake:noninja compiler:c++11-lang pkgconfig sdl openal
 USE_SDL=	sdl2 image2 mixer2 ttf2
 USE_GITHUB=	yes
 GH_ACCOUNT=	rodan
