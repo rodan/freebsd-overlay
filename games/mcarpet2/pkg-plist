@@ -1,0 +1,11 @@
+%%DATADIR%%/config_3d_pro.ini
+%%DATADIR%%/config_attack_3.ini
+%%DATADIR%%/config_xbox.ini
+%%DATADIR%%/font/16x16-font.bmp
+%%DATADIR%%/font/8x8-font.bmp
+%%DATADIR%%/remc2
+%%DOCSDIR%%/README.md
+%%DOCSDIR%%/README_OpenAL
+%%DOCSDIR%%/README_controllers
+bin/mcarpet2
+bin/mcarpet2_install.sh

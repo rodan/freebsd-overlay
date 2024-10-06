@@ -1,0 +1,6 @@
+game engine for a Magic Carpet 2 port with added OpenAL-based positional
+audio and support for joystick, controllers and haptics.
+Input and rendering are based on SDL2.
+
+does not contain any game assets like textures or sound. In order to play
+the gog.com version of the game needs to be purchased.

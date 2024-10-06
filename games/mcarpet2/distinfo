@@ -1,0 +1,11 @@
+TIMESTAMP = 1728206318
+SHA256 (rodan-magic_carpet_2-20241006_GH0.tar.gz) = 7120159ceb6b50e6dbc7acb1d0b475f541d254754c17469fed75baec9ae783a7
+SIZE (rodan-magic_carpet_2-20241006_GH0.tar.gz) = 1615456
+SHA256 (benhoyt-inih-r58_GH0.tar.gz) = e79216260d5dffe809bda840be48ab0eec7737b2bb9f02d2275c1b46344ea7b7
+SIZE (benhoyt-inih-r58_GH0.tar.gz) = 19964
+SHA256 (ocornut-imgui-v1.91.3_GH0.tar.gz) = 29949d7b300c30565fbcd66398100235b63aa373acfee0b76853a7aeacd1be28
+SIZE (ocornut-imgui-v1.91.3_GH0.tar.gz) = 1758682
+SHA256 (MathieuTurcotte-findfirst-2c4733bb77cb3357c691c7a6b7a46baeed2d5fe1_GH0.tar.gz) = f7cf3ab6a0a72604749319fb99279ab223cd33a31bf7ebc4aea8934fd7ddef9f
+SIZE (MathieuTurcotte-findfirst-2c4733bb77cb3357c691c7a6b7a46baeed2d5fe1_GH0.tar.gz) = 5629
+SHA256 (aminosbh-sdl2-cmake-modules-ad006a3daae65a612ed87415037e32188b81071e_GH0.tar.gz) = f9273a5b3d0e3b325b327f582cf4625343902b03ee9e2b22bdffd01803392390
+SIZE (aminosbh-sdl2-cmake-modules-ad006a3daae65a612ed87415037e32188b81071e_GH0.tar.gz) = 11996
