@@ -1,0 +1,4 @@
+%%DATADIR%%/dir_icon.png
+%%DATADIR%%/file_icon.png
+%%DATADIR%%/imgui.ini
+bin/thpp

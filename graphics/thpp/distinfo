@@ -1,0 +1,11 @@
+TIMESTAMP = 1728405751
+SHA256 (rodan-thpp-20241008_GH0.tar.gz) = 68d6bcf6220304ae92fdf432551151a349c552adc87ab77a7055b16658d260bf
+SIZE (rodan-thpp-20241008_GH0.tar.gz) = 23208266
+SHA256 (ocornut-imgui-v1.91.3-docking_GH0.tar.gz) = d462ccd0ca10cb412f8946c09ebd4cd0f62ca5def544dec5b3ce293c59f089fb
+SIZE (ocornut-imgui-v1.91.3-docking_GH0.tar.gz) = 1918601
+SHA256 (epezent-implot-f156599faefe316f7dd20fe6c783bf87c8bb6fd9_GH0.tar.gz) = d779ce33326343724d1e0fa23d4960cc9acaf4af584bc0134e504e7717ccc4bb
+SIZE (epezent-implot-f156599faefe316f7dd20fe6c783bf87c8bb6fd9_GH0.tar.gz) = 140301
+SHA256 (lvandeve-lodepng-ed3c5f14b136c936d615ee3b38aaa7e7e642f12c_GH0.tar.gz) = f9cfc7c35e3b69ff2bc65fcfd71f3fb6ecadaff4a89c599a622046e5ded4d743
+SIZE (lvandeve-lodepng-ed3c5f14b136c936d615ee3b38aaa7e7e642f12c_GH0.tar.gz) = 260372
+SHA256 (jkriege2-TinyTIFF-4.0.1.0_GH0.tar.gz) = 6272640f308345c3eb21a3d2575eb07ad5780f32bca674f06e00df3bdf0c595c
+SIZE (jkriege2-TinyTIFF-4.0.1.0_GH0.tar.gz) = 2632333

@@ -22,6 +22,7 @@ FreeBSD actually creates a package in the background and installs it to the live
 package | details
 --- | ---
 [games/mcarpet2](https://github.com/rodan/magic_carpet_2) | recode of Buffrog's Magic Carpet 2 game now with OpenAL-based directional sounds and support for modern controllers and joysticks
+[media-gfx/thpp](https://github.com/rodan/thpp) | thermal processing panel - viewer and analyzer of infrared images compatible with FLIR and IRTIS cameras
 
 ### see also
 
