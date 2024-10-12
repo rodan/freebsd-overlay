@@ -1,0 +1,12 @@
+diff --git src/Makefile src/Makefile
+index 1d52e23..61b1cbb 100644
+--- src/Makefile
++++ src/Makefile
+@@ -1,7 +1,6 @@
+ PROG = authprogs
+ OBJS = ap_str.o ap_log.o ap.o
+ 
+-CC = gcc
+ CFLAGS= -Wall
+ LDFLAGS =
+

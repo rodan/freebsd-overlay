@@ -25,6 +25,7 @@ package | details
 [media-gfx/thpp](https://github.com/rodan/thpp) | thermal processing panel - viewer and analyzer of infrared images compatible with FLIR and IRTIS cameras
 [sys-process/daemontools-scripts](https://github.com/rodan/daemontools-scripts) | Scripts for daemontools's supervisor
 [sys-apps/cwiticald](https://github.com/rodan/cwiticald) | entropy gathering daemon for TrueRNG devices
+[app-admin/authprogs](https://github.com/11001100/authprogs) | ssh forced command wrapper
 
 ### see also
 
