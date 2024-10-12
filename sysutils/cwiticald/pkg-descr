@@ -1,0 +1,3 @@
+an EGD-compatible server for TrueRNG usb devices that distributes a random
+stream over TCP
+
