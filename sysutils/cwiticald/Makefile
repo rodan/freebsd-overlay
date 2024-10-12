@@ -1,5 +1,5 @@
 PORTNAME=	cwiticald
-DISTVERSION=20241012
+DISTVERSION=1.4
 CATEGORIES=	sysutils
 
 MAINTAINER=	petre.rodan@subdimension.ro
@@ -17,7 +17,7 @@ LIB_DEPENDS=libevent.so:devel/libevent
 USES=		gmake compiler pkgconfig
 USE_GITHUB=	yes
 GH_ACCOUNT=	rodan
-GH_TUPLE=	rodan:cwiticald:85dc01cd3394840bd7b8c381249b2abcf818ac7c
+GH_TUPLE=	rodan:cwiticald:v1.4
 BUILD_WRKSRC=   ${WRKSRC}/src
 INSTALL_TARGET=	install-strip
 
